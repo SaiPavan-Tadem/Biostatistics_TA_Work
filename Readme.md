@@ -29,7 +29,7 @@ Step 3: VS Code setup
 
 ## Assignment Section
 ### Problem-1
-        a. Use the Assignment_dataset-1 to perform Regression
+     a. Use the Assignment_dataset-1 to perform Regression
         b. Predict -> 'HeartDisease' 
             1. 'HeartDisease' as dependent variable and all other variables as independent
             2. Every time,Do we need all independent variables for prediction ? 
