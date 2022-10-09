@@ -1,6 +1,6 @@
-# Biostatistics
+# MM61511:Biostatistics
 
-
+This course is offered by School of Medical Science and Technology-IIT Kharagpur during the Autumn Semester 2022-23. 
 
 ## Python Installation
 
