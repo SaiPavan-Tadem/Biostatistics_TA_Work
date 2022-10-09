@@ -1,6 +1,6 @@
 # Biostatistics
 
-Intro
+
 
 ## Python Installation
 
