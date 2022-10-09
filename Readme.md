@@ -1,13 +1,39 @@
-# MM61511:Biostatistics
+# MM61511: Biostatistics
 
 This course is offered by School of Medical Science and Technology-IIT Kharagpur during the Autumn Semester 2022-23. 
 
-## Google Colab 
+## Instructor:   
+[Dr. Debashree Guha](https://scholar.google.co.in/citations?user=tD8YpZUAAAAJ&hl=en), Assistant Professor,SMST  @ IIT Kharagpur
+
+
+
+
+### Teaching Assistants:
+  
+  - Chandrima- PhD
+  - Suraj Bhute- M.Tech 
+  - [Sai Pavan Tadem](https://saipavan-tadem.github.io/)  - M.Tech
+               
+## Index
+
+- [MM61511: Biostatistics](#MM61511:Biostatistics)
+  - [Google_Colab](#Google_Colab)
+  - [Python_Installation](#Python_Installation)
+  - [Instructions](#Instructions)
+  - [Assignments](#Assignments)
+---
+
+### Instructions
+        UPDATED SOON..../
+---
+
+### Google_Colab 
+
 ```bash 
 https://www.youtube.com/watch?v=agj3AxNPDWU
 ```
 
-## Python Installation
+### Python Installation
 
 Step 1: check Python pre installed or not by following commands
 ```bash
@@ -30,27 +56,28 @@ Step 3: VS Code setup
 https://www.youtube.com/watch?v=Z3i04RoI9Fk
 ```
 
-## Assignment Section
 
+### Assignments
+---
 ### 1.Problem Regression
 
 a. Use the Assignment_dataset-1 to perform Regression
  
 b. Predict -> `HeartDisease` 
  
-1. `HeartDisease` as dependent variable and all other variables as independent
++ `HeartDisease` as dependent variable and all other variables as independent
 
-2. Every time,Do we need all independent variables for prediction ?
++ Every time,Do we need all independent variables for prediction ?
 
     -`Hint`: (hit try and error) choose few independent variables and try regression. Compare the test loss with previous.(submit any two combinations)
 
-3. Explian which regression method is required (Linear or Logistic) to perform this prediction with the help of `y_test` and `Prediction` distribution plots.
++ Explian which regression method is required (Linear or Logistic) to perform this prediction with the help of `y_test` and `Prediction` distribution plots.
             
  c. Predict-> `Cholesterol`
  
-   1. Choose the appropriate regression method to perform the task.
-   2. Using `seaborn` and `matplotlib` visualize the data distributions as mentioned explained in the class.
-
+   + Choose the appropriate regression method to perform the task.
+   + Using `seaborn` and `matplotlib` visualize the data distributions as mentioned explained in the class.
+---
 ### 2.Problem -Toss a coin N times and plot successive head distribution.
 
 a. write an algorithm to toss a coin (as discussed in the class).
@@ -60,7 +87,7 @@ a. write an algorithm to toss a coin (as discussed in the class).
     Note 2 : flip the coin N number of times and plot the successive heads distribution. 
 
     Note 3  : Perform the experiment with N as 50,100,500,1000.
-
+---
 ### 3.Problem-Find the `statistics` for the below data 
 
 
@@ -70,6 +97,5 @@ a. write an algorithm to toss a coin (as discussed in the class).
             list2=[20.0,1000.0,800.0,910.0,950.0,980.0,990.0,890.0,880.0,93.0]
              
     Note 2 : Comment about the best measure of central tendency for the respective lists. 
-
+---
                
-            
