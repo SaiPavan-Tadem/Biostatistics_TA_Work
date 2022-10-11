@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=Z3i04RoI9Fk
 
 ### Assignments
 ---
-### 1.Problem Regression
+### 1.Problem on Regression
 
 a. Use the Assignment_dataset-1 to perform Regression
  
